@@ -15,8 +15,8 @@
 |01/01/2018–01/09/2018|Cyber Security Consultant - Assistant Manager | Cyber Risk Services| Deloitte SBA, Cairo (Egypt) |
 |01/07/2015–01/01/2018|Cyber Security Consultant - Experienced Senior | Cyber Risk Services |Deloitte SBA, Cairo (Egypt) |
 |01/07/2014–01/07/2015|Senior Information Security Specialist | Professional Services |Raya [DC/IT], Cairo (Egypt) |
-|01/01/2012–01/07/2014|Information Security Engineer |National Bank of Egypt (NBE), Cairo (Egypt) |
-|01/10/2010–01/01/2012|Technical Support | National Bank of Egypt (NBE), Cairo (Egypt) |
+|01/01/2012–01/07/2014|Information Security Engineer | Information Security | National Bank of Egypt (NBE), Cairo (Egypt) |
+|01/10/2010–01/01/2012|Technical Support | NOC | National Bank of Egypt (NBE), Cairo (Egypt) |
 
 |EDUCATION AND TRAINING| 
 |01/01/2006–01/01/2010|BSc in Computer Science|EQF level 5|
