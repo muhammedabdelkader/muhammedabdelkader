@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @muhammedabdelkader
-- 👀 I’m interested in Cyber Security Space. 
-<!-- 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
----> 
-
-<!---
-muhammedabdelkader/muhammedabdelkader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" style="width:100%; height:100%;">
+    <head>
+          <meta http-equiv="content-type" content="text/html; charset=utf-8">
+            <title>Muhammed's Resume</title>
+    </head>
+      <body style="width:100%; height:100%; margin:0;">
+              <iframe
+                      src="https://docs.google.com/gview?url=https://github.com/muhammedabdelkader/muhammedabdelkader.github.io/raw/main/resume/CV-AbdElkader-EN.pdf&embedded=true" style="width:100%; height:100%;"
+                                           frameborder="0"></iframe>
+                </body>
+</html>
