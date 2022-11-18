@@ -12,6 +12,7 @@
 | -: | -: | -: | -: |
 |07/02/2022–Present|Security Engineer - Senior | Security Operations | Tink AB, Stockholm (Sweden) |
 |25/08/2019–07/02/2022|Offensive Security Engineer - Senior | Product Security | Klarna AB Bank, Stockholm (Sweden) |
+|01/01/2019–01/08/2019|Offensive Security Consultant - Staff Engineer | Offensive Security Services| SecureMisr, Cairo (Egypt) |
 |01/01/2018–01/09/2018|Cyber Security Consultant - Assistant Manager | Cyber Risk Services| Deloitte SBA, Cairo (Egypt) |
 |01/07/2015–01/01/2018|Cyber Security Consultant - Experienced Senior | Cyber Risk Services |Deloitte SBA, Cairo (Egypt) |
 |01/07/2014–01/07/2015|Senior Information Security Specialist | Professional Services |Raya [DC/IT], Cairo (Egypt) |
