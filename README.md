@@ -23,34 +23,11 @@
 | -: | :- | -: |
 ||Faculty of Science - Cairo University, Cairo (Egypt) |
 
-|PERSONAL SKILLS|
-
-|Mother tongue(s)|Arabic|
-| -: | :- |
-|||
-|Foreign language(s)|UNDERSTANDING|SPEAKING|WRITING|
-||Listening|Reading|Spoken interaction|Spoken production||
-|English|B2|B2|B1|B2|B2|
-
-
 |Communication skills|<p>Having the Excellent interpersonal and communication skills to share knowledge and to communicate effectively with different backgrounds.</p><p>Having strong oral and written communication, organisation, and interpersonal skills.</p><p>Ability to translate complex findings into interpretable and simple output.</p>|
 | -: | :- |
-
-
-|Organisational / managerial skills|Strong people management and leadership, Operational Control (operating);<br>Experience leading both a services organisation and product development function;<br>Developing Business Strategy and providing Technical Thought Leadership;<br>Managing customer engagements escalations to ensure customer satisfaction;<br>Expert understanding of technology and security principles and possess knowledge of the cyber threat landscape;<br>Expert in leading penetration testing and vulnerability assessment engagements for large enterprise firms.|
-| -: | :- |
-
 
 |Job-related skills|<p>Expert in tailored reconnaissance, exploitation, and lateral movement.</p><p>Strong knowledge of attack surfaces for common enterprise systems and services.</p><p>Be able to independently apply testing methods against a wide variety of targets including Web Applications, Mobile Applications, Web APIs, databases, wireless networks, conducting social engineering attacks against customer user base, routing infrastructure, VOIP and VPN.</p><p>Perform secure code review.</p><p>Writing fully functional exploits for common vulnerabilities such as simple stack overflow, cross-site scripting, or SQL injection.</p><p>Strong knowledge in scripting.</p><p>Good experience with SIEMs (splunk)</p><p>Excellent experience with AWS.</p><p>Writing security tools (Golang, python, Java, and PHP) </p>|
 | -: | :- |
 
-
-|ADDITIONAL INFORMATION| |
-| -: | -: |
-
-
 |Certifications|<p>Offensive Security Certified Expert (OSCE)</p><p>Offensive Security Certified Professional (OSCP)</p><p>ISO 27001:2013 Lead Auditor Certification (BSI 2013)</p><p>GSEC (General Security Essentials Certificate) SANS License 32754</p><p>Certified Red Team Professional (CRTP) </p>|
 | -: | :- |
-
-
-`	 	 `Page 3 / 3 
