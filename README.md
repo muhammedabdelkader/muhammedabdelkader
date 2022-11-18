@@ -18,10 +18,6 @@
 |01/07/2014–01/07/2015|Senior Information Security Specialist | Professional Services |Raya [DC/IT], Cairo (Egypt) |
 |01/01/2012–01/07/2014|Information Security Engineer | Information Security | National Bank of Egypt (NBE), Cairo (Egypt) |
 |01/10/2010–01/01/2012|Technical Support | NOC | National Bank of Egypt (NBE), Cairo (Egypt) |
-| -: | -: | -: | -: | 
-
-|EDUCATION AND TRAINING|
-|01/01/2006–01/01/2010|BSc in Computer Science|EQF level 5|
 
 |Certifications|<p>Offensive Security Certified Expert (OSCE)</p><p>Offensive Security Certified Professional (OSCP)</p><p>ISO 27001:2013 Lead Auditor Certification (BSI 2013)</p><p>GSEC (General Security Essentials Certificate) SANS License 32754</p><p>Certified Red Team Professional (CRTP) </p>|
 | -: | :- |
