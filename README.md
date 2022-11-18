@@ -7,12 +7,9 @@
 |Websites|<p>https://muhammedabdelkader.github.io</p><p><https://www.linkedin.com/in/muhammed-muhammed-bassem-80bb3115/> <http://hackerzoneh.blogspot.com/> </p><p><https://github.com/muhammedabdelkader></p><p><https://github.com/muhammedmbassem></p><p><https://github.com/Mr0xr3d></p>|
 |Skype| muhammed61107  |
 |Twitter| @mmbassem |
-|More Info| Male | Date of birth 25/10/1988 | Nationality Egyptian |
-
-
 
 |WORK EXPERIENCE| |
-| -: | -: |
+| -: | -: | -: |
 |07/02/2022–Present|Security Engineer - Senior | Security Operations | Tink AB,
 Stockholm (Sweden) |
 |25/08/2019–07/02/2022|Offensive Security Engineer - Senior | Product Security | Klarna AB Bank, Stockholm (Sweden) |
