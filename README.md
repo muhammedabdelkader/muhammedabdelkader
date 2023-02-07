@@ -4,7 +4,6 @@ Muhammed is a security engineer by day and a hacker by night. With over 12 years
 | -: | :- |
 ||
 |Living In|Stockholm, Sweden  |
-|Mobile Number|(+46)0723996195 |
 |E-mail|muhammed.m.abdelkader@gmail.com |
 |Websites|<p>https://muhammedabdelkader.github.io</p><p><https://www.linkedin.com/in/muhammed-muhammed-bassem-80bb3115/> <http://hackerzoneh.blogspot.com/> </p><p><https://github.com/muhammedabdelkader></p><p><https://github.com/muhammedmbassem></p><p><https://github.com/Mr0xr3d></p>|
 |Skype| muhammed61107  |
