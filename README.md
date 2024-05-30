@@ -21,4 +21,5 @@ Muhammed is a security engineer by day and a hacker by night. With over 12 years
 |01/10/2010–01/01/2012|Technical Support | NOC | National Bank of Egypt (NBE), Cairo (Egypt) |
 
 |Certifications|<p>Offensive Security Certified Expert (OSCE)</p><p>Offensive Security Certified Professional (OSCP)</p><p>ISO 27001:2013 Lead Auditor Certification (BSI 2013)</p><p>GSEC (General Security Essentials Certificate) SANS License 32754</p><p>Certified Red Team Professional (CRTP) </p>|
+<p>K8s & Cloud Security https://k8slanparty.com/certificate/8eO10sjt </p>| 
 | -: | :- |
