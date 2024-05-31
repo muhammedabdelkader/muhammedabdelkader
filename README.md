@@ -1,15 +1,9 @@
 # Muhammed M. Abdelkader
 
-**Location:** Stockholm, Sweden  
-**Phone:** +46-(0)723996195  
-**Email:** [muhammed.m.abdelkader@gmail.com](mailto:muhammed.m.abdelkader@gmail.com)  
 **LinkedIn:** [https://www.linkedin.com/in/muhammed-muhammed-bassem-80bb3115/](https://www.linkedin.com/in/muhammed-muhammed-bassem-80bb3115/)  
 **Blog:** [http://hackerzoneh.blogspot.com/](http://hackerzoneh.blogspot.com/)  
 **GitHub:** [muhammedabdelkader](https://github.com/muhammedabdelkader), [muhammedmbassem](https://github.com/muhammedmbassem), [Mr0xr3d](https://github.com/Mr0xr3d)  
 **Skype:** muhammed61107  
-**Sex:** Male  
-**Date of Birth:** 25/10/1988  
-**Nationality:** Egyptian  
 
 ## Work Experience
 
